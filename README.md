@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Josh-clst
-- 👀 I’m interested in video games and general programming
-- 🌱 I’m currently learning java,python,html,C++
+- 👀 I’m interested in general programming, AI and video games
+- 🌱 I’m currently learning java,python,html,C#
 - 📫 How to reach me :
   Through my email : joshua.icard@imt-atlantique.net
   Through discord : josh_57
