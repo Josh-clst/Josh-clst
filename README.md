@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Josh-clst
+- 👋 Hi, I’m Joshua ICARD
 - 👀 I’m interested in general programming, AI and video games
-- 🌱 I’m currently learning java,python,html,C#
+- 🌱 I'm skilled in Python,Java and C#.
 - 📫 How to reach me :
   Through my email : joshua.icard@imt-atlantique.net
   Through discord : josh_57
